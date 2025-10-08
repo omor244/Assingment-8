@@ -1,0 +1,309 @@
+[
+  {
+    "image": "https://i.ibb.co.com/HfK4h1xp/1.webp",
+    "title": "Focusly",
+    "companyName": "Zenova Labs",
+    "id": 1,
+    "description": "Stay productive with Focusly — a smart timer that helps you concentrate and track your daily focus goals.",
+    "size": 25,
+    "reviews": 1500,
+    "ratingAvg": 4.8,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 740 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fz1XqN3Y/2.jpg",
+    "title": "Planify",
+    "companyName": "Mindpath",
+    "id": 2,
+    "description": "Organize your schedule, set reminders, and hit your goals with Planify — your all-in-one task planner.",
+    "size": 18,
+    "reviews": 2600,
+    "ratingAvg": 4.9,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1510 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fzxRh5X3/3.gif",
+    "title": "Studify",
+    "companyName": "Bitlax Studio",
+    "id": 3,
+    "description": "Track your study sessions and stay motivated using the Pomodoro technique with Studify.",
+    "size": 29,
+    "reviews": 1300,
+    "ratingAvg": 4.4,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DfnKGDFm/4.png",
+    "title": "Pomofy",
+    "companyName": "KittySoft",
+    "id": 4,
+    "description": "A cute and minimal Pomodoro timer designed to make work sessions fun and productive.",
+    "size": 22,
+    "reviews": 1800,
+    "ratingAvg": 4.1,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rfyQdtb0/5.jpg",
+    "title": "Sunova",
+    "companyName": "DayRise Co.",
+    "id": 5,
+    "description": "Wake up inspired with Sunova — a motivational alarm that starts your day with positivity and purpose.",
+    "size": 27,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 510 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k6wLvBtJ/6.webp",
+    "title": "Moodify",
+    "companyName": "Calmi Labs",
+    "id": 6,
+    "description": "Track and visualize your daily moods. Get mindful insights and stay emotionally balanced with Moodify.",
+    "size": 30,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 880 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xSHvgJh8/7.webp",
+    "title": "Habitio",
+    "companyName": "Flowify",
+    "id": 7,
+    "description": "Build habits that last. Habitio helps you track streaks and celebrate progress every day.",
+    "size": 24,
+    "reviews": 3400,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 2190 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/J1psGT8/8.webp",
+    "title": "Notezio",
+    "companyName": "CleverByte",
+    "id": 8,
+    "description": "Your notes, organized beautifully. Capture, sync, and share ideas instantly with Notezio.",
+    "size": 34,
+    "reviews": 1700,
+    "ratingAvg": 4.6,
+    "downloads": 4300000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 470 },
+      { "name": "5 star", "count": 780 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HT860394/9.webp",
+    "title": "Meditio",
+    "companyName": "Tranquil Apps",
+    "id": 9,
+    "description": "Meditate and sleep better with guided sessions, breathing tools, and relaxing sounds.",
+    "size": 40,
+    "reviews": 2600,
+    "ratingAvg": 4.9,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1250 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KzGxgpL5/10.jpg",
+    "title": "Sleeply",
+    "companyName": "Dreamify Ltd.",
+    "id": 10,
+    "description": "Fall asleep faster with Sleeply — your personal soundscape of nature, rain, and calm waves.",
+    "size": 33,
+    "reviews": 1800,
+    "ratingAvg": 4.7,
+    "downloads": 6500000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 840 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spqxfs2K/11.png",
+    "title": "Snapify",
+    "companyName": "PixelCore",
+    "id": 11,
+    "description": "Capture and edit your moments instantly with Snapify — AI-powered photo enhancement for everyone.",
+    "size": 52,
+    "reviews": 2900,
+    "ratingAvg": 4.6,
+    "downloads": 8700000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1470 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cKTHdnNs/12.jpg",
+    "title": "Streamix",
+    "companyName": "NovaSound",
+    "id": 12,
+    "description": "Listen to your favorite tracks anywhere. Streamix brings millions of songs in one clean interface.",
+    "size": 60,
+    "reviews": 5000,
+    "ratingAvg": 4.9,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 3170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/V0B1RrKt/13.jpg",
+    "title": "FocusZen",
+    "companyName": "MindGrow",
+    "id": 13,
+    "description": "Silence distractions and improve deep work focus through ambient soundscapes and timers.",
+    "size": 21,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 4300000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 890 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9QJhLmq/14.webp",
+    "title": "Creatify",
+    "companyName": "VisionLabs",
+    "id": 14,
+    "description": "Design anything with ease — from posters to logos. Creatify gives you powerful tools on the go.",
+    "size": 70,
+    "reviews": 3700,
+    "ratingAvg": 4.8,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LzmC4zRp/15.jpg",
+    "title": "Notiq",
+    "companyName": "SmartCore",
+    "id": 15,
+    "description": "Organize notes, documents, and databases in one place. Notiq brings your workflow together.",
+    "size": 58,
+    "reviews": 4200,
+    "ratingAvg": 4.8,
+    "downloads": 14000000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2590 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HsMfyFg/16.webp",
+    "title": "Taskero",
+    "companyName": "FlowTech",
+    "id": 16,
+    "description": "Manage projects, collaborate with teammates, and stay on top of your goals in Taskero.",
+    "size": 49,
+    "reviews": 2500,
+    "ratingAvg": 4.5,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1120 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FqYkv5kB/17.jpg",
+    "title": "Codeon",
+    "companyName": "Devly",
+    "id": 17,
+    "description": "A simple coding environment for practicing JavaScript, HTML, and CSS right from your phone.",
+    "size": 54,
+    "reviews": 1700,
+    "ratingAvg": 4.6,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 800 }
+    ]
+  }
+  
+]
