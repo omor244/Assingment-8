@@ -1,3 +1,4 @@
+import { useNavigate } from "react-router";
 import useApps from "../../Hooks/useApps";
 import Appscard from "../Appscard/Appscard";
 import Banner from "../Banner/Banner";
@@ -5,6 +6,8 @@ import Prodactive from "../Prodactivesection/Prodactive";
 
 
 const Home = () => {
+
+   const navigate = useNavigate()
 
     const { apps, loader } = useApps()
     console.log(apps, loader)
@@ -24,7 +27,11 @@ const Home = () => {
                  {
                     slicedApps.map(app => <Appscard key={app.id} app={app}></Appscard>)
                  }
+
               </div>
+                <div className="text-center py-5 pb-20">
+                   <button onClick={() => navigate('apps') } className="btn px-12  btn-primary ">Show All</button>
+                </div>
         </div>
     );
 };

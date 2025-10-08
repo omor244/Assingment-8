@@ -4,6 +4,7 @@ import ErrorPage from "../Components/ErrorPage/ErrorPage";
 import Home from "../Pages/Home/Home";
 import ProductsApps from "../Pages/ProductsApps/ProductsApps";
 import Installationpage from "../Pages/Installationpage/Installationpage";
+import Details from "../Pages/Detailspage/Details";
 
 
 const router = createBrowserRouter([
@@ -23,9 +24,17 @@ const router = createBrowserRouter([
        {
         path: 'install',
         element: <Installationpage></Installationpage>
+       },
+       {
+        path: '/details/:id',
+        element: <Details></Details>
        }
+      
     ]
     
+  },
+  {
+        basename: "/Apps",
   }
 ]);
 
