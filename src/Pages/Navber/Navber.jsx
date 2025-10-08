@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import navimage from '../../assets/logo.png'
 import { FaGithub } from "react-icons/fa";
 
@@ -16,18 +16,13 @@ const Navber = () => {
                         <ul
                             tabIndex={0}
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><NavLink to={'/'}
-                                className={({ isActive }) =>
-                                    isActive ? "text-blue-600 font-bold underline" : "text-gray-600"
-                                }
-
-                            >Home</NavLink></li>
-                            <li><NavLink to={'Apps'}>Apps</NavLink></li>
-                            <li><NavLink to={'install'}>Installation</NavLink></li>
+                            <li><NavLink className='text-xl font-medium' to={'/'}  >Home</NavLink></li>
+                            <li><NavLink className='text-xl font-medium' to={'Apps'}>Apps</NavLink></li>
+                            <li><NavLink className='text-xl font-medium' to={'install'}>Installation</NavLink></li>
 
                         </ul>
                     </div>
-                    <NavLink to={'/'} className=" text-xl flex items-center text-blue-600"><span><img className='w-14' src={navimage} alt="" /> </span> HERO.IO</NavLink >
+                    <Link to={'/'} className=" text-xl font-bold flex items-center text-blue-600"><span><img className='w-14' src={navimage} alt="" /> </span> HERO.IO</Link >
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -38,7 +33,7 @@ const Navber = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn bg-[#632EE3] px-5 py-5 text-white text-sm flex items-center"> <span className='text-xl'><FaGithub /></span> Contribute</a>
+                    <a href='https://github.com/omor244' target='_blank' className="btn bg-[#632EE3] px-5 py-5 text-white text-sm flex items-center"> <span className='text-xl'><FaGithub /></span> Contribute</a>
                 </div>
             </div>
         </div>
