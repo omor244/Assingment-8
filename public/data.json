@@ -1,7 +1,7 @@
 [
   {
     "image": "https://i.ibb.co.com/HfK4h1xp/1.webp",
-    "title": "Focusly",
+    "title": "Focusly: Smart Timer for Productivity",
     "companyName": "Zenova Labs",
     "id": 1,
     "description": "Stay productive with Focusly — a smart timer that helps you concentrate and track your daily focus goals.",
@@ -19,7 +19,7 @@
   },
   {
     "image": "https://i.ibb.co.com/fz1XqN3Y/2.jpg",
-    "title": "Planify",
+    "title": "Planify: Task Planner & Reminder",
     "companyName": "Mindpath",
     "id": 2,
     "description": "Organize your schedule, set reminders, and hit your goals with Planify — your all-in-one task planner.",
@@ -37,7 +37,7 @@
   },
   {
     "image": "https://i.ibb.co.com/fzxRh5X3/3.gif",
-    "title": "Studify",
+    "title": "Studify: Focus Timer for Study",
     "companyName": "Bitlax Studio",
     "id": 3,
     "description": "Track your study sessions and stay motivated using the Pomodoro technique with Studify.",
@@ -55,7 +55,7 @@
   },
   {
     "image": "https://i.ibb.co.com/DfnKGDFm/4.png",
-    "title": "Pomofy",
+    "title": "Pomofy: Cute Pomodoro Timer",
     "companyName": "KittySoft",
     "id": 4,
     "description": "A cute and minimal Pomodoro timer designed to make work sessions fun and productive.",
@@ -73,7 +73,7 @@
   },
   {
     "image": "https://i.ibb.co.com/rfyQdtb0/5.jpg",
-    "title": "Sunova",
+    "title": "Sunova: Motivational Alarm Clock",
     "companyName": "DayRise Co.",
     "id": 5,
     "description": "Wake up inspired with Sunova — a motivational alarm that starts your day with positivity and purpose.",
@@ -91,7 +91,7 @@
   },
   {
     "image": "https://i.ibb.co.com/k6wLvBtJ/6.webp",
-    "title": "Moodify",
+    "title": "Moodify: Daily Mood Tracker",
     "companyName": "Calmi Labs",
     "id": 6,
     "description": "Track and visualize your daily moods. Get mindful insights and stay emotionally balanced with Moodify.",
@@ -109,7 +109,7 @@
   },
   {
     "image": "https://i.ibb.co.com/xSHvgJh8/7.webp",
-    "title": "Habitio",
+    "title": "Habitio: Habit Tracker & Streak Builder",
     "companyName": "Flowify",
     "id": 7,
     "description": "Build habits that last. Habitio helps you track streaks and celebrate progress every day.",
@@ -127,7 +127,7 @@
   },
   {
     "image": "https://i.ibb.co.com/J1psGT8/8.webp",
-    "title": "Notezio",
+    "title": "Notezio: Smart Notes & Ideas Organizer",
     "companyName": "CleverByte",
     "id": 8,
     "description": "Your notes, organized beautifully. Capture, sync, and share ideas instantly with Notezio.",
@@ -145,7 +145,7 @@
   },
   {
     "image": "https://i.ibb.co.com/HT860394/9.webp",
-    "title": "Meditio",
+    "title": "Meditio: Meditation & Sleep Companion",
     "companyName": "Tranquil Apps",
     "id": 9,
     "description": "Meditate and sleep better with guided sessions, breathing tools, and relaxing sounds.",
@@ -163,7 +163,7 @@
   },
   {
     "image": "https://i.ibb.co.com/KzGxgpL5/10.jpg",
-    "title": "Sleeply",
+    "title": "Sleeply: Relaxing Sounds for Better Sleep",
     "companyName": "Dreamify Ltd.",
     "id": 10,
     "description": "Fall asleep faster with Sleeply — your personal soundscape of nature, rain, and calm waves.",
@@ -181,7 +181,7 @@
   },
   {
     "image": "https://i.ibb.co.com/spqxfs2K/11.png",
-    "title": "Snapify",
+    "title": "Snapify: Instant Photo Editor",
     "companyName": "PixelCore",
     "id": 11,
     "description": "Capture and edit your moments instantly with Snapify — AI-powered photo enhancement for everyone.",
@@ -199,7 +199,7 @@
   },
   {
     "image": "https://i.ibb.co.com/cKTHdnNs/12.jpg",
-    "title": "Streamix",
+    "title": "Streamix: Music Streaming App",
     "companyName": "NovaSound",
     "id": 12,
     "description": "Listen to your favorite tracks anywhere. Streamix brings millions of songs in one clean interface.",
@@ -217,7 +217,7 @@
   },
   {
     "image": "https://i.ibb.co.com/V0B1RrKt/13.jpg",
-    "title": "FocusZen",
+    "title": "FocusZen: Ambient Focus Timer",
     "companyName": "MindGrow",
     "id": 13,
     "description": "Silence distractions and improve deep work focus through ambient soundscapes and timers.",
@@ -235,7 +235,7 @@
   },
   {
     "image": "https://i.ibb.co.com/j9QJhLmq/14.webp",
-    "title": "Creatify",
+    "title": "Creatify: Design Anything Easily",
     "companyName": "VisionLabs",
     "id": 14,
     "description": "Design anything with ease — from posters to logos. Creatify gives you powerful tools on the go.",
@@ -253,7 +253,7 @@
   },
   {
     "image": "https://i.ibb.co.com/LzmC4zRp/15.jpg",
-    "title": "Notiq",
+    "title": "Notiq: Notes & Database Organizer",
     "companyName": "SmartCore",
     "id": 15,
     "description": "Organize notes, documents, and databases in one place. Notiq brings your workflow together.",
@@ -271,7 +271,7 @@
   },
   {
     "image": "https://i.ibb.co.com/HsMfyFg/16.webp",
-    "title": "Taskero",
+    "title": "Taskero: Project & Team Manager",
     "companyName": "FlowTech",
     "id": 16,
     "description": "Manage projects, collaborate with teammates, and stay on top of your goals in Taskero.",
@@ -289,7 +289,7 @@
   },
   {
     "image": "https://i.ibb.co.com/FqYkv5kB/17.jpg",
-    "title": "Codeon",
+    "title": "Codeon: Mobile Coding Practice",
     "companyName": "Devly",
     "id": 17,
     "description": "A simple coding environment for practicing JavaScript, HTML, and CSS right from your phone.",
@@ -305,5 +305,4 @@
       { "name": "5 star", "count": 800 }
     ]
   }
-  
 ]

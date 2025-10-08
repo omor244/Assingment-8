@@ -26,9 +26,9 @@ const Navber = () => {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><NavLink to={'/'}>Home</NavLink></li>
-                        <li><NavLink to={'Apps'}>Apps</NavLink></li>
-                        <li><NavLink to={'install'}>Installation</NavLink></li>
+                        <li><NavLink className='text-lg font-medium' to={'/'}>Home</NavLink></li>
+                        <li><NavLink className='text-lg font-medium' to={'Apps'}>Apps</NavLink></li>
+                        <li><NavLink className='text-lg font-medium' to={'install'}>Installation</NavLink></li>
 
                     </ul>
                 </div>
