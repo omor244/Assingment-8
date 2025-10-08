@@ -1,10 +1,11 @@
 [
-  {
+  
+    {
     "image": "https://i.ibb.co.com/HfK4h1xp/1.webp",
     "title": "Focusly: Smart Timer for Productivity",
     "companyName": "Zenova Labs",
     "id": 1,
-    "description": "Stay productive with Focusly — a smart timer that helps you concentrate and track your daily focus goals.",
+    "description": "Focusly is a smart timer designed to help you maximize productivity and maintain deep focus throughout your day. Whether you are studying, working on projects, or managing personal tasks, Focusly provides a structured approach to time management using proven techniques like the Pomodoro method. The app allows you to create customized focus sessions and break intervals to fit your unique workflow, keeping distractions at bay while helping you stay motivated. With clear insights and analytics, you can track your daily progress, monitor your streaks, and understand how your concentration improves over time. Its minimalist and intuitive interface ensures a distraction-free experience, while subtle notifications and sounds gently guide you between work and rest periods. Focusly empowers you to take control of your time, enhance efficiency, and build lasting productivity habits, making every session count toward achieving your personal and professional goals.",
     "size": 25,
     "reviews": 1500,
     "ratingAvg": 4.8,
@@ -22,7 +23,7 @@
     "title": "Planify: Task Planner & Reminder",
     "companyName": "Mindpath",
     "id": 2,
-    "description": "Organize your schedule, set reminders, and hit your goals with Planify — your all-in-one task planner.",
+    "description": "Planify is a comprehensive task management app designed to organize your schedule, set reminders, and help you achieve your goals efficiently. With Planify, you can create detailed to-do lists, categorize tasks by priority, and schedule events in a way that suits your daily routine. The app offers intelligent notifications to ensure you never miss deadlines while helping you maintain consistency in your workflow. Track your progress with insightful reports, understand how your habits affect productivity, and adjust your plans for maximum efficiency. The clean, user-friendly interface makes planning enjoyable and straightforward, eliminating the stress of disorganization. Whether managing professional projects, personal goals, or routine tasks, Planify empowers you to take control of your day. By breaking tasks into manageable steps and providing motivational reminders, Planify helps build long-term productive habits, allowing you to focus on what truly matters without feeling overwhelmed.",
     "size": 18,
     "reviews": 2600,
     "ratingAvg": 4.9,
@@ -40,7 +41,7 @@
     "title": "Studify: Focus Timer for Study",
     "companyName": "Bitlax Studio",
     "id": 3,
-    "description": "Track your study sessions and stay motivated using the Pomodoro technique with Studify.",
+    "description": "Studify is a dedicated study timer built to help students and learners maximize focus and efficiency during their study sessions. Using the Pomodoro technique, Studify divides your study time into focused intervals followed by short breaks, which helps maintain mental sharpness and prevent burnout. You can set personalized session lengths, track completed sessions, and analyze your progress over days and weeks to stay motivated. The app includes subtle sounds and gentle reminders to keep you on track without creating distractions. Whether preparing for exams, learning new skills, or reviewing notes, Studify turns study time into a structured and rewarding experience. Its clean and intuitive design ensures distraction-free learning, and visual statistics allow you to see patterns in your productivity. By fostering consistent study habits, Studify encourages learners to reach their academic goals while maintaining balance and motivation.",
     "size": 29,
     "reviews": 1300,
     "ratingAvg": 4.4,
@@ -58,7 +59,7 @@
     "title": "Pomofy: Cute Pomodoro Timer",
     "companyName": "KittySoft",
     "id": 4,
-    "description": "A cute and minimal Pomodoro timer designed to make work sessions fun and productive.",
+    "description": "Pomofy is a delightful Pomodoro timer designed to make focus sessions enjoyable and motivating. With its cute and minimal interface, Pomofy encourages users to stay productive while having fun. You can set custom work and break intervals, track your completed sessions, and celebrate achievements with charming animations. The app is perfect for students, creative professionals, and anyone seeking a friendly way to manage time effectively. Gentle notifications and sound cues guide you between focus and rest periods, helping maintain consistent productivity without stress. Pomofy also allows you to monitor progress with visual insights and charts, turning time management into a rewarding routine. By combining functionality with a cheerful design, Pomofy transforms your workflow into an engaging and balanced experience, making it easier to maintain focus, develop positive habits, and enjoy every productive moment.",
     "size": 22,
     "reviews": 1800,
     "ratingAvg": 4.1,
@@ -76,7 +77,7 @@
     "title": "Sunova: Motivational Alarm Clock",
     "companyName": "DayRise Co.",
     "id": 5,
-    "description": "Wake up inspired with Sunova — a motivational alarm that starts your day with positivity and purpose.",
+    "description": "Sunova is a motivational alarm clock designed to inspire and energize your mornings. The app combines customizable alarm tones, uplifting quotes, and positive affirmations to start your day with focus and motivation. You can personalize your wake-up routine with different alarm sounds, gradually increasing volume, and gentle reminders. Sunova helps cultivate healthy morning habits by offering prompts to set intentions for the day and encouraging mindfulness practices. With a clean and intuitive interface, it’s easy to schedule alarms and track consistency. Whether you’re an early riser or need help transitioning from sleep to activity, Sunova ensures a smooth and positive start every day. By integrating motivational content and practical features, the app enhances both your mood and productivity, making every morning an opportunity to approach your goals with clarity, energy, and inspiration.",
     "size": 27,
     "reviews": 1200,
     "ratingAvg": 4.5,
@@ -94,7 +95,7 @@
     "title": "Moodify: Daily Mood Tracker",
     "companyName": "Calmi Labs",
     "id": 6,
-    "description": "Track and visualize your daily moods. Get mindful insights and stay emotionally balanced with Moodify.",
+    "description": "Moodify is a powerful app designed to help you track, visualize, and understand your daily emotions. By recording moods and feelings throughout the day, Moodify allows users to identify patterns and triggers that affect their mental well-being. The app provides easy-to-read charts, daily summaries, and weekly insights to help you make informed choices about your emotional health. You can also add notes, reflections, or mindfulness exercises to track progress over time. With Moodify’s gentle reminders and intuitive interface, maintaining a daily check-in habit becomes simple and enjoyable. This app is perfect for individuals seeking to improve self-awareness, manage stress, or build healthy routines. Moodify empowers users to monitor emotional trends, celebrate positive moments, and respond proactively to challenging days, offering clarity, support, and a deeper understanding of personal well-being over time.",
     "size": 30,
     "reviews": 2100,
     "ratingAvg": 4.7,
@@ -107,12 +108,12 @@
       { "name": "5 star", "count": 880 }
     ]
   },
-  {
-    "image": "https://i.ibb.co.com/xSHvgJh8/7.webp",
+    {
+    "image": "https://i.ibb.co/xSHvgJh8/7.webp",
     "title": "Habitio: Habit Tracker & Streak Builder",
     "companyName": "Flowify",
     "id": 7,
-    "description": "Build habits that last. Habitio helps you track streaks and celebrate progress every day.",
+    "description": "Habitio is a comprehensive habit tracking app designed to help you build positive routines and maintain streaks for long-term success. With Habitio, you can create personalized habits, set reminders, and track daily progress in a visual and intuitive way. The app motivates users by showing streaks, achievements, and progress over time, helping to reinforce consistency and accountability. Whether your goal is to exercise regularly, develop mindfulness, or establish new professional habits, Habitio provides the tools to monitor and celebrate growth. The clean interface allows for easy navigation, while customizable notifications keep you on track without being overwhelming. Habitio also offers insights and analytics to highlight patterns, enabling better planning and self-awareness. By turning habit-building into an engaging, measurable, and rewarding process, Habitio empowers users to achieve meaningful improvements in their personal and professional lives, one streak at a time.",
     "size": 24,
     "reviews": 3400,
     "ratingAvg": 4.8,
@@ -126,11 +127,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/J1psGT8/8.webp",
+    "image": "https://i.ibb.co/J1psGT8/8.webp",
     "title": "Notezio: Smart Notes & Ideas Organizer",
     "companyName": "CleverByte",
     "id": 8,
-    "description": "Your notes, organized beautifully. Capture, sync, and share ideas instantly with Notezio.",
+    "description": "Notezio is a versatile notes and ideas organizer designed for anyone who wants to capture, structure, and access information seamlessly. Whether you are a student, professional, or creative thinker, Notezio helps you take notes, organize thoughts, and manage ideas with ease. The app allows for categorization, tagging, and syncing across devices, ensuring your content is always accessible. Advanced features like quick search, rich formatting, and collaboration make Notezio a powerful tool for planning, brainstorming, and project organization. The intuitive interface focuses on productivity and clarity, minimizing distractions and maximizing creativity. By providing tools for capturing insights instantly and structuring them efficiently, Notezio helps users stay organized, inspired, and on top of their tasks. With Notezio, turning ideas into actionable plans becomes effortless, allowing for a more productive and streamlined workflow every day.",
     "size": 34,
     "reviews": 1700,
     "ratingAvg": 4.6,
@@ -144,11 +145,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/HT860394/9.webp",
+    "image": "https://i.ibb.co/HT860394/9.webp",
     "title": "Meditio: Meditation & Sleep Companion",
     "companyName": "Tranquil Apps",
     "id": 9,
-    "description": "Meditate and sleep better with guided sessions, breathing tools, and relaxing sounds.",
+    "description": "Meditio is a holistic meditation and sleep companion designed to enhance mental clarity, relaxation, and overall well-being. The app provides guided meditation sessions, breathing exercises, and calming soundscapes to help users reduce stress, improve focus, and achieve restorative sleep. With customizable session lengths, daily reminders, and progress tracking, Meditio empowers users to incorporate mindfulness into their daily routines seamlessly. The sleep-focused features include soothing ambient sounds, bedtime routines, and guided relaxation to improve sleep quality. Meditio’s intuitive interface makes it easy for beginners and experienced meditators alike to access content tailored to individual needs. By integrating meditation practices with practical tools for sleep, focus, and stress management, Meditio promotes emotional balance, resilience, and personal growth. Users can monitor improvements over time, ensuring that mindfulness becomes a consistent and rewarding part of their lifestyle.",
     "size": 40,
     "reviews": 2600,
     "ratingAvg": 4.9,
@@ -162,11 +163,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/KzGxgpL5/10.jpg",
+    "image": "https://i.ibb.co/KzGxgpL5/10.jpg",
     "title": "Sleeply: Relaxing Sounds for Better Sleep",
     "companyName": "Dreamify Ltd.",
     "id": 10,
-    "description": "Fall asleep faster with Sleeply — your personal soundscape of nature, rain, and calm waves.",
+    "description": "Sleeply is a soothing sleep companion designed to help users fall asleep faster and experience deeper, more restorative rest. Featuring a wide range of relaxing soundscapes, including rain, ocean waves, forest ambiance, and gentle melodies, Sleeply allows users to create personalized sound environments for optimal relaxation. The app includes timers, fade-in/fade-out settings, and playlist customization to suit individual sleep preferences. Sleeply also helps reduce stress and anxiety before bedtime by promoting a calm mental state. Its simple and intuitive interface ensures an easy, distraction-free experience. Perfect for those struggling with sleep disturbances, students, professionals, or anyone seeking a more peaceful night, Sleeply promotes healthier sleep habits. By integrating consistent sound-based relaxation routines, the app enhances overall wellness, boosts energy levels, and prepares users to wake up refreshed, focused, and ready for the day ahead.",
     "size": 33,
     "reviews": 1800,
     "ratingAvg": 4.7,
@@ -180,11 +181,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/spqxfs2K/11.png",
+    "image": "https://i.ibb.co/spqxfs2K/11.png",
     "title": "Snapify: Instant Photo Editor",
     "companyName": "PixelCore",
     "id": 11,
-    "description": "Capture and edit your moments instantly with Snapify — AI-powered photo enhancement for everyone.",
+    "description": "Snapify is an AI-powered photo editor designed for instant photo enhancement, creative edits, and easy sharing. Users can quickly transform images with filters, effects, and auto-enhancement tools while maintaining a natural and professional look. Snapify’s intuitive interface allows for seamless cropping, resizing, and adjusting of color, brightness, and contrast, making it ideal for both casual users and photography enthusiasts. The app also supports batch editing, allowing multiple photos to be processed at once efficiently. Snapify encourages creativity with stickers, text overlays, and collage features, turning ordinary photos into captivating visuals. Whether editing memories, preparing social media content, or enhancing professional images, Snapify combines speed, ease of use, and advanced technology. With real-time previews and AI assistance, it ensures high-quality results, making photo editing accessible and enjoyable for everyone, while helping users preserve, enhance, and share their best moments effortlessly.",
     "size": 52,
     "reviews": 2900,
     "ratingAvg": 4.6,
@@ -198,11 +199,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/cKTHdnNs/12.jpg",
+    "image": "https://i.ibb.co/cKTHdnNs/12.jpg",
     "title": "Streamix: Music Streaming App",
     "companyName": "NovaSound",
     "id": 12,
-    "description": "Listen to your favorite tracks anywhere. Streamix brings millions of songs in one clean interface.",
+    "description": "Streamix is a music streaming app designed to provide seamless access to millions of songs from various genres worldwide. Users can create playlists, follow artists, and explore curated recommendations tailored to personal tastes. Streamix offers high-quality audio streaming, offline listening, and social sharing features, ensuring a personalized and connected experience. The app’s intuitive interface makes music discovery effortless, allowing users to explore trending tracks, new releases, and classic favorites with ease. With smart recommendations based on listening habits, Streamix keeps your music library fresh and engaging. Ideal for casual listeners and audiophiles alike, it enhances daily activities, workouts, study sessions, and relaxation time with perfect soundtracks. By combining accessibility, variety, and intelligent features, Streamix transforms how users enjoy music, providing a rich auditory experience while keeping music discovery fun, social, and immersive.",
     "size": 60,
     "reviews": 5000,
     "ratingAvg": 4.9,
@@ -216,11 +217,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/V0B1RrKt/13.jpg",
+    "image": "https://i.ibb.co/V0B1RrKt/13.jpg",
     "title": "FocusZen: Ambient Focus Timer",
     "companyName": "MindGrow",
     "id": 13,
-    "description": "Silence distractions and improve deep work focus through ambient soundscapes and timers.",
+    "description": "FocusZen is designed to help users achieve deep focus and productivity through ambient soundscapes and customizable timers. The app provides a serene and distraction-free environment by integrating soothing background sounds such as rain, forest, and white noise, which help enhance concentration. Users can set session durations tailored to their workflow, track progress, and take advantage of smart reminders to maintain productivity throughout the day. FocusZen also includes features for analyzing focus patterns over time, helping users identify peak productivity periods. Ideal for students, professionals, and creatives, it supports mindfulness and mental clarity while working or studying. With an intuitive interface and simple controls, FocusZen makes it easy to implement structured focus sessions that improve efficiency, reduce stress, and promote long-term habits for sustained mental performance. By turning work into a more mindful and immersive experience, FocusZen helps users unlock their full potential.",
     "size": 21,
     "reviews": 2100,
     "ratingAvg": 4.5,
@@ -234,11 +235,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/j9QJhLmq/14.webp",
+    "image": "https://i.ibb.co/j9QJhLmq/14.webp",
     "title": "Creatify: Design Anything Easily",
     "companyName": "VisionLabs",
     "id": 14,
-    "description": "Design anything with ease — from posters to logos. Creatify gives you powerful tools on the go.",
+    "description": "Creatify is a powerful and intuitive design app that allows users to create stunning visuals effortlessly. From professional logos to social media posts, posters, and digital art, Creatify offers a wide range of tools and templates that cater to beginners and advanced designers alike. The app provides drag-and-drop editing, customizable elements, AI-assisted design suggestions, and a rich library of fonts, icons, and graphics. With seamless sharing and export options, users can produce high-quality designs for personal, educational, or commercial purposes. Creatify emphasizes simplicity without compromising creativity, enabling users to transform ideas into professional designs quickly. Its intelligent design features also help optimize layouts, color schemes, and visual balance, making design accessible to everyone. Whether working on branding, marketing materials, or personal projects, Creatify streamlines the creative process while encouraging experimentation and innovation, helping users bring their visions to life efficiently and beautifully.",
     "size": 70,
     "reviews": 3700,
     "ratingAvg": 4.8,
@@ -252,11 +253,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/LzmC4zRp/15.jpg",
+    "image": "https://i.ibb.co/LzmC4zRp/15.jpg",
     "title": "Notiq: Notes & Database Organizer",
     "companyName": "SmartCore",
     "id": 15,
-    "description": "Organize notes, documents, and databases in one place. Notiq brings your workflow together.",
+    "description": "Notiq is an advanced organizational tool designed to combine notes, documents, and databases into a single, accessible platform. It allows users to capture ideas, manage tasks, and store important information in a structured and easily searchable format. Notiq’s intuitive interface supports tagging, categorization, and linking between notes and databases, which streamlines workflow and enhances productivity. Users can collaborate, share notes, and synchronize data across devices, ensuring continuity and efficiency. With built-in analytics and progress tracking, Notiq provides insights into productivity patterns, helping users optimize their work processes. Ideal for students, professionals, and teams, Notiq fosters organization, creativity, and strategic planning. By integrating various information management features into one cohesive platform, Notiq minimizes clutter, maximizes accessibility, and enables users to focus on what matters most, turning scattered ideas and resources into actionable knowledge and structured workflows.",
     "size": 58,
     "reviews": 4200,
     "ratingAvg": 4.8,
@@ -270,11 +271,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/HsMfyFg/16.webp",
+    "image": "https://i.ibb.co/HsMfyFg/16.webp",
     "title": "Taskero: Project & Team Manager",
     "companyName": "FlowTech",
     "id": 16,
-    "description": "Manage projects, collaborate with teammates, and stay on top of your goals in Taskero.",
+    "description": "Taskero is a comprehensive project and team management app designed to streamline collaboration, task tracking, and goal achievement. Users can create projects, assign tasks, set deadlines, and monitor team progress in real time, ensuring transparency and accountability. Taskero integrates communication tools, file sharing, and progress analytics to provide a centralized workspace that reduces inefficiencies and improves productivity. Its intuitive interface supports drag-and-drop task management, customizable boards, and notifications that keep team members on track without feeling overwhelmed. Taskero is ideal for businesses, startups, and teams of all sizes, enabling efficient planning and execution of complex projects. By offering insights into workflow, timelines, and team performance, Taskero empowers managers and members to optimize resources, make data-driven decisions, and maintain focus on achieving project milestones effectively and collaboratively. It ensures teams stay organized, motivated, and productive every day.",
     "size": 49,
     "reviews": 2500,
     "ratingAvg": 4.5,
@@ -288,11 +289,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/FqYkv5kB/17.jpg",
+    "image": "https://i.ibb.co/FqYkv5kB/17.jpg",
     "title": "Codeon: Mobile Coding Practice",
     "companyName": "Devly",
     "id": 17,
-    "description": "A simple coding environment for practicing JavaScript, HTML, and CSS right from your phone.",
+    "description": "Codeon is a mobile coding environment that allows users to practice JavaScript, HTML, and CSS on the go. It provides an interactive platform for learning, experimenting, and testing code snippets in real time without needing a desktop computer. Codeon features a built-in code editor with syntax highlighting, autocomplete, and error detection to enhance learning efficiency. The app supports project organization, file management, and live previews, allowing users to see the results of their code instantly. Ideal for students, aspiring developers, and professionals seeking to practice coding anywhere, Codeon encourages skill development through hands-on experience. With tutorials, challenges, and community support, the app promotes continuous learning and problem-solving. By combining accessibility, functionality, and interactivity, Codeon transforms mobile devices into powerful coding tools, making coding practice convenient, engaging, and effective for learners of all levels.",
     "size": 54,
     "reviews": 1700,
     "ratingAvg": 4.6,

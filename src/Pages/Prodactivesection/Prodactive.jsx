@@ -17,9 +17,9 @@ const Prodactive = () => {
                         </p>
                         
                         <div className='bg-base-300 py-10 flex  justify-center items-center gap-5'>
-                            <a className='flex text-xl py-6 btn items-center justify-center'><span><img className='w-12 ' src={googleplay} alt="" /></span> Google Play</a>
+                            <a href='https://play.google.com/store/games?device=windows' target='_blank' className='flex text-xl py-6 btn items-center justify-center'><span><img className='w-12 ' src={googleplay} alt="" /></span> Google Play</a>
 
-                            <a className='flex py-6 text-xl btn items-center justify-center'><span><img className='w-24' src={Appstore} alt="" /></span> <span className='ml-[-16px]'>App Store</span></a>
+                            <a href='https://www.apple.com/ca/app-store/'  target='_blank' className='flex py-6 text-xl btn items-center justify-center'><span><img className='w-24' src={Appstore} alt="" /></span> <span className='ml-[-16px]'>App Store</span></a>
                         </div>
                     </div>
                 </div>

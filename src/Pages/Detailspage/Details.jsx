@@ -1,4 +1,4 @@
-import React from 'react';
+import { useState } from 'react';
 import useApps from '../../Hooks/useApps';
 import { useParams } from 'react-router';
 
@@ -6,15 +6,27 @@ import download from '../../assets/icon-downloads.png'
 import rating from '../../assets/icon-ratings.png'
 import reveiw from '../../assets/icon-review.png'
 import Barchart from '../Barchart/Barchart';
+import { AddToLS } from '../../Components/Utilites/Utilites';
 
 const Details = () => {
 
     const { apps } = useApps()
     const { id } = useParams()
-    console.log(apps, id)
+    const [active, setactive] = useState(true)
+    console.log(active)
 
     const findedapp = [...apps].find(data => data.id === Number(id))
-    const { image, title, ratingAvg, downloads,reviews, ratings } = findedapp || {}
+    const { image, title, ratingAvg, downloads,reviews, ratings,description
+ } = findedapp || {}
+
+ const handelinstall =card => {
+
+    
+         AddToLS(card)
+
+         setactive(false)
+     
+ }
     
     
     return (
@@ -46,13 +58,20 @@ const Details = () => {
                        <h2 className="font-extrabold text-7xl">{Math.round( reviews / 100)}K</h2>
                     </div>
                 </div>
-                    <button className='mt-5 btn btn-accent px-10 text-white'>Install Now </button>
+                    <button onClick={() => handelinstall(findedapp)}  className={` ${ !active ? ' cursor-not-allowed  opacity-55' : 'text-white'} mt-5  text-lg btn btn-accent px-10 `}>{ !active? 'installed ' : '  Install Now' }</button>
                 </div>
             </div>
 
             <div className='mt-10'>
              
                <Barchart ratings={ratings}></Barchart>
+            </div>
+
+            <div className='mt-10  bg-cyan-100 p-6'> 
+                <h1 className='text-3xl font-bold'>Description</h1>
+               <div className='text-lg leading-9 font-normal mt-3 '>
+                <p>{description}</p>
+               </div>
             </div>
         </section>
     );
