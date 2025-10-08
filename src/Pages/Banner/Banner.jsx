@@ -13,14 +13,14 @@ const Banner = () => {
                         <p className="opacity-75 font-normal ">21% more than last month</p>
                     </div>
                     <div className="mt-[40px] space-y-2 text-center">
-                        <p className="opacity-75 font-normal">Total Downloads</p>
-                        <h2 className="font-extrabold text-7xl">29.6M</h2>
-                        <p className="opacity-75 font-normal ">21% more than last month</p>
+                        <p className="opacity-75 font-normal">Total Reviews</p>
+                        <h2 className="font-extrabold text-7xl">906K</h2>
+                        <p className="opacity-75 font-normal ">46% more than last month</p>
                     </div>
                     <div className="mt-[40px] space-y-2 text-center">
-                        <p className="opacity-75 font-normal">Total Downloads</p>
-                        <h2 className="font-extrabold text-7xl">29.6M</h2>
-                        <p className="opacity-75 font-normal ">21% more than last month</p>
+                        <p className="opacity-75 font-normal">Active Apps</p>
+                        <h2 className="font-extrabold text-7xl">17+</h2>
+                        <p className="opacity-75 font-normal ">15 more will Launch</p>
                     </div>
                 </div>
             </div>

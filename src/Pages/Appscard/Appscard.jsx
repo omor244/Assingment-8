@@ -25,7 +25,7 @@ const Appscard = ({ app }) => {
                     </h2>
 
                     <div className="card-actions justify-between">
-                        <div className="badge badge-accent"> <span><GoDownload /></span>{Math.round(downloads / 10000)}k </div>
+                        <div className="badge badge-accent"> <span><GoDownload /></span>{Math.round(downloads / 1000000)}M </div>
                         <div className="badge badge-secondary"><span><FaStar /></span> {ratingAvg}</div>
                     </div>
                 </div>
