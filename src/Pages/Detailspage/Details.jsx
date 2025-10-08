@@ -33,7 +33,7 @@ const Details = () => {
         <section className='bg-cyan-50 '>
             <div className=' lg:flex  md:flex gap-6  pt-12'>
                 <div className=' overflow-hidden '>
-                    <img className=' lg:pl-4 w-[600px]  object-cover   ' src={image} alt="" />
+                    <img className='  lg:pl-4 w-[600px]  object-cover   ' src={image} alt="" />
 
                 </div>
                 <div className='bg-white max-w-screen lg:w-screen p-8 '>

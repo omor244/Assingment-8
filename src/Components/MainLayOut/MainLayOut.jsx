@@ -2,7 +2,7 @@ import { Outlet, useNavigation } from "react-router";
 import Navber from "../../Pages/Navber/Navber";
 import Footer from "../../Pages/Footer/Footer";
 import Loading from "../Loading/Loading";
-
+import { ToastContainer } from "react-toastify";
 
 
 const MainLayOut = () => {
@@ -16,7 +16,7 @@ const MainLayOut = () => {
              <main className="flex-1">
                 <Outlet></Outlet>
              </main>
-
+            <ToastContainer></ToastContainer>
              <Footer></Footer>
         </div>
     );

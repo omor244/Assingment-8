@@ -1,9 +1,10 @@
 import React from 'react';
+import { PacmanLoader, RingLoader } from 'react-spinners';
 
 const Loading = () => {
     return (
-        <div>
-            <h1 className='text-6xl'>Loadding....</h1>
+        <div className='flex justify-center'>
+            <h1 className='text-6xl '><PacmanLoader></PacmanLoader></h1>
         </div>
     );
 };

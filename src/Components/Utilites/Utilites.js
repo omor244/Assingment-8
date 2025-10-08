@@ -1,3 +1,5 @@
+import { toast } from "react-toastify"
+
 // get data
 
 const getfromLs = () =>{
@@ -20,14 +22,14 @@ const AddToLS = card =>{
 
   const isExist = ifhave.find(i =>  i.id  === card.id )
    if(isExist){
-     alert('Already added')
+     toast.error('Already added')
      return 
    }
 
    ifhave.push(card)
 
    localStorage.setItem('card', JSON.stringify(ifhave))
-   alert('Successfully added!')
+   toast.success('Successfully added!')
 }
 
 const removeFromLs = data => {
@@ -36,7 +38,7 @@ const removeFromLs = data => {
   const removeddata = allcard.filter(a => a.id !== data.id)
 
   localStorage.setItem('card', JSON.stringify(removeddata))
-  alert('Successfully deleted')
+  toast.success('Successfully deleted')
 
    console.log(removeddata)
 }
