@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import {  useState } from 'react';
 import useApps from '../../Hooks/useApps';
 import { useParams } from 'react-router';
 
@@ -6,28 +6,31 @@ import download from '../../assets/icon-downloads.png'
 import rating from '../../assets/icon-ratings.png'
 import reveiw from '../../assets/icon-review.png'
 import Barchart from '../Barchart/Barchart';
-import { AddToLS } from '../../Components/Utilites/Utilites';
+import { AddToLS} from '../../Components/Utilites/Utilites';
 
 const Details = () => {
 
     const { apps } = useApps()
     const { id } = useParams()
     const [active, setactive] = useState(true)
-    console.log(active)
-
+    
+   
     const findedapp = [...apps].find(data => data.id === Number(id))
     const { image, title, ratingAvg, downloads,reviews, ratings,description
  } = findedapp || {}
 
- const handelinstall =card => {
+ const handelinstall =(card) => {
 
     
-         AddToLS(card)
-
+         AddToLS(card, active)
+      
          setactive(false)
-     
+
+       
  }
-    
+
+
+
     
     return (
         <section className='bg-cyan-50 '>
@@ -36,7 +39,8 @@ const Details = () => {
                     <img className='  lg:pl-4 w-[600px]  object-cover   ' src={image} alt="" />
 
                 </div>
-                <div className='bg-white max-w-screen lg:w-screen p-8 '>
+               
+                 <div className='bg-white max-w-screen lg:w-screen p-8 '>
                     <div>
                         <h1 className='text-4xl font-bold'>{title}</h1>
                         <p className='text-xl mt-1'>Developed by <span className='text-[#834aeb] font-medium'>productive.io</span></p>
@@ -58,8 +62,12 @@ const Details = () => {
                        <h2 className="font-extrabold text-7xl">{Math.round( reviews / 100)}K</h2>
                     </div>
                 </div>
-                    <button onClick={() => handelinstall(findedapp)}  className={` ${ !active ? ' cursor-not-allowed  opacity-55' : 'text-white'} mt-5  text-lg btn btn-accent px-10 `}>{ !active? 'installed ' : '  Install Now' }</button>
-                </div>
+                    <button onClick={() => handelinstall(findedapp)}  className={` ${ !active ? ' cursor-not-allowed  opacity-55' : 'text-white'} mt-5  text-lg btn btn-accent px-10 `}>{ active? ' Install Now ' : ' installed  ' }</button>
+                </div>  
+                
+                
+                 <h1>no data </h1>
+               
             </div>
 
             <div className='mt-10'>

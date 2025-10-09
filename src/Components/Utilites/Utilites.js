@@ -5,6 +5,7 @@ import { toast } from "react-toastify"
 const getfromLs = () =>{
     const getitem = localStorage.getItem('card')
 
+
     if(getitem){
          return JSON.parse(getitem)
     }
@@ -16,7 +17,7 @@ const getfromLs = () =>{
 // add data 
  
 
-const AddToLS = card =>{
+const AddToLS = (card) =>{
     
   const  ifhave = getfromLs()
 
@@ -30,6 +31,8 @@ const AddToLS = card =>{
 
    localStorage.setItem('card', JSON.stringify(ifhave))
    toast.success('Successfully added!')
+
+  
 }
 
 const removeFromLs = data => {
