@@ -1,7 +1,7 @@
 import {  useState } from 'react';
 import useApps from '../../Hooks/useApps';
-import { useParams } from 'react-router';
-
+import { useNavigate, useParams } from 'react-router';
+import error from '../../assets/App-Error.png'
 import download from '../../assets/icon-downloads.png'
 import rating from '../../assets/icon-ratings.png'
 import reveiw from '../../assets/icon-review.png'
@@ -12,7 +12,8 @@ const Details = () => {
 
     const { apps } = useApps()
     const { id } = useParams()
-    const [active, setactive] = useState(true)
+    const navigate = useNavigate()
+        const [active, setactive] = useState(true)
     
    
     const findedapp = [...apps].find(data => data.id === Number(id))
@@ -32,8 +33,27 @@ const Details = () => {
 
 
     
-    return (
+    if(!findedapp){
+        return (
         <section className='bg-cyan-50 '>
+         
+          
+            <div className='flex justify-center pt-10'>
+                       
+                       <div className='text-center'>
+                           <img className='mx-auto' src={error} alt="" />
+                           <h1 className='text-6xl font-bold'>Oops, page not found!</h1>
+                           <p className='text-xl mt-4 text-[#627382]'>The page you are looking for is not available.</p>
+                           <button onClick={() => navigate(-1)} className='btn mt-4 btn-primary px-14'>Go Back!</button>
+                       </div>
+                       
+                   </div>
+            
+        </section>
+    );
+    }
+    return(
+         <section className='bg-cyan-50 '>
             <div className=' lg:flex  md:flex gap-6  pt-12'>
                 <div className=' overflow-hidden '>
                     <img className='  lg:pl-4 w-[600px]  object-cover   ' src={image} alt="" />
@@ -66,7 +86,7 @@ const Details = () => {
                 </div>  
                 
                 
-                 <h1>no data </h1>
+                 
                
             </div>
 
@@ -81,8 +101,11 @@ const Details = () => {
                 <p>{description}</p>
                </div>
             </div>
+          
+
+            
         </section>
-    );
+    )
 };
 
 export default Details;
